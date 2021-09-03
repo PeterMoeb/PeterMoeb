@@ -1,4 +1,8 @@
 // Primitiv-Test Blinken LED
+/* So geht ein Kommentar über mehrere Zeilen!
+Ja, so geht das!
+Es sind 3 Zeilen. */
+
 
 int ledPin = 13;
 
